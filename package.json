@@ -1,0 +1,23 @@
+{
+  "name": "ai-study-planner",
+  "version": "1.0.0",
+  "description": "AI Study Planner - Complete End-to-End Full-Stack AI Academic Platform",
+  "scripts": {
+    "server": "cd server && node server.js",
+    "server:dev": "cd server && node --watch server.js",
+    "client": "cd client && npm run dev",
+    "client:build": "cd client && npm run build",
+    "start": "cd server && node server.js"
+  },
+  "keywords": [
+    "ai-study-planner",
+    "react",
+    "nodejs",
+    "express",
+    "sqlite",
+    "studypilot",
+    "student-productivity"
+  ],
+  "author": "",
+  "license": "ISC"
+}
